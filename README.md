@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukhammadzokhid Mukhtarzhanov</h1>
 <h3 align="center">A passionate Full stack developer from Kyrgyzstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=life-of-mukhammed&label=Profile%20views&color=0e75b6&style=flat" alt="life-of-mukhammed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=life-of-mukhammed" alt="life-of-mukhammed" /></a> </p>
 
 - 🔭 I’m currently working on **Startup Garage**
 
