@@ -43,7 +43,7 @@
       <a href="#">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg-main.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/Logo SG main.svg" />
           <img src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg-main.svg" alt="Startup Garage" width="280" />
         </picture>
       </a>
