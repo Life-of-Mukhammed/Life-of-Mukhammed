@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/Life-of-Mukhammed">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=260&section=header&text=Mukhammadzokhid&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=260&section=header&text=Mukhammadzokhid&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Full%20stack%20Developer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header banner"/>
 </a>
 
 <a href="https://github.com/Life-of-Mukhammed">
