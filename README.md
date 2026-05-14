@@ -32,7 +32,7 @@
 <!-- ━━━━━━━━━━━━━━━━━━━━━  CURRENT WORK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%9A%A1+CURRENTLY+BUILDING+%E2%9A%A1" alt="current work"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%9A%A1+CURRENTLY+WORKING+%E2%9A%A1" alt="current work"/>
 </div>
 
 <br/>
@@ -75,11 +75,7 @@
 <br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake.svg" />
-    <img alt="Software Engineer contribution snake" src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,2,30&height=4&width=100%&section=header" width="100%" alt="divider"/>
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
@@ -266,7 +262,7 @@ const mukhammadzokhid: Developer = {
 
 <div align="center">
   <h2>☕ &nbsp; Support My Journey</h2>
-  <a href="https://www.buymeacoffee.com/lifeofmukhammed" target="_blank">
+  <a href="https://www.buymeacoffee.com/Mukhammadzokhid" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="bmac"/>
   </a>
 </div>
