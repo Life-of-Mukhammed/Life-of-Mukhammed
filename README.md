@@ -1,32 +1,284 @@
-<h1 align="center">Hi 👋, I'm Mukhammadzokhid Mukhtarzhanov</h1>
-<h3 align="center">A passionate Full stack developer from Kyrgyzstan</h3>
+<!--  ╔══════════════════════════════════════════════════════════════════════╗
+     ║              ✦ MUKHAMMADZOKHID MUKHTARZHANOV ✦                       ║
+     ║       Full-Stack Engineer  •  Founder  •  Yandex Dev                 ║
+     ╚══════════════════════════════════════════════════════════════════════╝  -->
 
+<div align="center">
 
+<a href="https://github.com/Life-of-Mukhammed">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=260&section=header&text=Mukhammadzokhid&fontSize=70&fontAlignY=38&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Builder&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header banner"/>
+</a>
 
-- 🔭 I’m currently working on **Startup Garage** and **Yandex Dev** 
+<a href="https://github.com/Life-of-Mukhammed">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&width=760&height=60&lines=Hi+there+%F0%9F%91%8B+I'm+Mukhammadzokhid;%F0%9F%9A%80+Software+Engineer+from+Kyrgyzstan;%F0%9F%92%BB+Software+Engineer+%40+Startup+Garage;%F0%9F%9F%A1+Software+Engineer+%40+Yandex+Dev;%E2%9C%A8+Turning+ideas+into+products" alt="Typing animation"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Life-of-Mukhammed](https://github.com/Life-of-Mukhammed)
+<br/>
 
-- 📝 I regularly write articles on [https://www.instagram.com/life_of_mukhammed/](https://www.instagram.com/life_of_mukhammed/)
+<a href="https://github.com/Life-of-Mukhammed">
+  <img src="https://komarev.com/ghpvc/?username=life-of-mukhammed&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="profile views"/>
+</a>
+<a href="https://github.com/Life-of-Mukhammed?tab=followers">
+  <img src="https://img.shields.io/github/followers/Life-of-Mukhammed?label=FOLLOWERS&style=for-the-badge&color=blueviolet&labelColor=0d1117" alt="followers"/>
+</a>
+<a href="https://github.com/Life-of-Mukhammed">
+  <img src="https://img.shields.io/github/stars/Life-of-Mukhammed?label=STARS&style=for-the-badge&color=yellow&labelColor=0d1117" alt="stars"/>
+</a>
 
-- 💬 Ask me about **Frontend and Backend**
+</div>
 
-- 📫 How to reach me **zohid061007@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think I am funny**
+<!-- ━━━━━━━━━━━━━━━━━━━━━  CURRENT WORK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mukhammadzokhid-mukhtarzhanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukhammadzokhid-mukhtarzhanov" height="30" width="40" /></a>
-<a href="https://instagram.com/life_of_mukhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="life_of_mukhammed" height="30" width="40" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=%E2%9A%A1+CURRENTLY+BUILDING+%E2%9A%A1" alt="current work"/>
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="middle" height="160" style="background:#0d1117;">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg.svg" alt="Startup Garage" width="280"/>
+      </a>
+    </td>
+    <td align="center" width="50%" valign="middle" height="160">
+      <a href="https://yandex.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Yandex_icon.svg" alt="Yandex" width="110" height="110"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://img.shields.io/badge/STARTUP%20GARAGE-Software%20Engineer-5458FF?style=for-the-badge&labelColor=0d1117" alt="Startup Garage — Software Engineer"/>
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://yandex.com" target="_blank">
+        <img src="https://img.shields.io/badge/YANDEX%20DEV-Software%20Engineer-FC3F1D?style=for-the-badge&labelColor=0d1117" alt="Yandex Dev — Software Engineer"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <sub><b>💻 Building products as a Software Engineer</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <sub><b>💻 Building products as a Software Engineer</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake.svg" />
+    <img alt="Software Engineer contribution snake" src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  ABOUT ME  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+    &nbsp;<code>whoami</code>
+  </h2>
+</div>
+
+```typescript
+const mukhammadzokhid: Developer = {
+  name:        "Mukhammadzokhid Mukhtarzhanov",
+  from:        "🇰🇬 Kyrgyzstan",
+  role:        "Software Engineer",
+  workingOn:   ["Startup Garage", "Yandex Dev"],
+  currentFocus:"Building great products",
+  askMeAbout:  ["Frontend", "Backend", "Product", "Code"],
+  reach:       "zohid061007@gmail.com",
+  funFact:     "I think I am funny 😄",
+  motto:       "Ship fast. Learn faster. Build forever."
+};
+```
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>🌐 &nbsp; Let's Connect</h2>
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mukhammadzokhid-mukhtarzhanov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/life_of_mukhammed" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  </a>
+  <a href="mailto:zohid061007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Life-of-Mukhammed" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/life_of_mukhammed" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<br/>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=life-of-mukhammed&show_icons=true&locale=en&layout=compact" alt="life-of-mukhammed" /></p>
+<!-- ━━━━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━━━━ -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=life-of-mukhammed&show_icons=true&locale=en" alt="life-of-mukhammed" /></p> -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"/>
+    &nbsp;Tech Arsenal
+  </h2>
+</div>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=life-of-mukhammed&" alt="life-of-mukhammed" /></p> -->
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css,bash&perline=8" alt="languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>⚛️ Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,redux,tailwind,sass,bootstrap&perline=8" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>🔧 Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,fastapi,graphql,prisma,laravel&perline=8" alt="backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>📱 Mobile</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio,ios&perline=8" alt="mobile"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>🗄️ Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,supabase,firebase&perline=8" alt="databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>☁️ DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux,git,github&perline=8" alt="devops"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>🎨 Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma,ps,blender,ae&perline=8" alt="design"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,vercel,notion,vim&perline=8" alt="tools"/>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  STATS  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/>
+    &nbsp;GitHub Pulse
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Life-of-Mukhammed">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=life-of-mukhammed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=A78BFA"/>
+  </a>
+  <a href="https://github.com/Life-of-Mukhammed">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=life-of-mukhammed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Life-of-Mukhammed">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=life-of-mukhammed&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=A78BFA&fire=FC3F1D&currStreakLabel=58A6FF" alt="streak"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Life-of-Mukhammed">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=life-of-mukhammed&bg_color=0D1117&color=58A6FF&line=A78BFA&point=FC3F1D&area=true&hide_border=true&custom_title=Contribution+Activity+Graph" alt="activity graph" width="98%"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  TROPHIES  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>🏆 &nbsp; Achievements</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=life-of-mukhammed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  QUOTE  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>💭 &nbsp; My Engineering Philosophy</h2>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&italic=true&weight=700&size=34&duration=4500&pause=1200&color=A78BFA&center=true&vCenter=true&width=820&height=70&lines=%E2%80%9CIf+it+works%2C+don't+touch.%E2%80%9D" alt="Personal motto" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4500&pause=1200&color=58A6FF&center=true&vCenter=true&width=420&height=40&lines=%E2%80%94+Mukhammadzokhid+Mukhtarzhanov" alt="author signature" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%E2%9C%A8_Personal_Motto-If_it_works%2C_don't_touch_%E2%80%94_Mukhammadzokhid-A78BFA?style=for-the-badge&labelColor=0d1117" alt="motto badge"/>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  SUPPORT  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+  <h2>☕ &nbsp; Support My Journey</h2>
+  <a href="https://www.buymeacoffee.com/lifeofmukhammed" target="_blank">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=0d1117" alt="bmac"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24&fontAlignY=70&animation=twinkling" width="100%" alt="footer banner"/>
+
+  <sub>⭐ <i>From <a href="https://github.com/Life-of-Mukhammed">Life-of-Mukhammed</a> with love</i> ⭐</sub>
+
+</div>
