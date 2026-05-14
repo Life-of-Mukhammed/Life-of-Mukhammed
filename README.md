@@ -39,9 +39,13 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="middle" height="160" style="background:#0d1117;">
+    <td align="center" width="50%" valign="middle" height="160">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg.svg" alt="Startup Garage" width="280"/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg-main.svg" />
+          <img src="https://raw.githubusercontent.com/Life-of-Mukhammed/Life-of-Mukhammed/main/logo-sg-main.svg" alt="Startup Garage" width="280" />
+        </picture>
       </a>
     </td>
     <td align="center" width="50%" valign="middle" height="160">
